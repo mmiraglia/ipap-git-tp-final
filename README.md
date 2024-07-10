@@ -30,7 +30,7 @@ Después de la reunión con el jefe del área( líder del proyecto), podes elegi
 
   - [x] Agregar una apartado al README.md con links y descripciones de al menos 2 herramientas web para aprender ramas en Git. En la rama principal.
 
-- [ ] Integración: Combinar (mergear) la rama proyectos con la principal y mencionar si hubo conflictos, en que archivos y cómo los soluciono. Poner toda la información sobre los conflictos en un archivo llamado conflictos-merge.md
+- [x] Integración: Combinar (mergear) la rama proyectos con la principal y mencionar si hubo conflictos, en que archivos y cómo los soluciono. Poner toda la información sobre los conflictos en un archivo llamado conflictos-merge.md
 
 - [ ] Traspaso de conocimiento: Buscar y agregar a nuestro repositorio una hoja de datos (cheatsheet) de Git sea imagen, pdf, o cualquier tipo de archivo en cualquier idioma (español preferentemente).
 
