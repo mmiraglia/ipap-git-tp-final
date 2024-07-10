@@ -22,7 +22,7 @@ Después de la reunión con el jefe del área( líder del proyecto), podes elegi
 
 - [x] Elección de tecnología: Describir al menos dos de los servicios a libre elección que aparecen como templates en la creación de proyectos en Gitlab.
 
-- [ ] Adaptación: Buscar y clonar un proyecto libre del Estado Argentino (fuera del repositorio) y copiar sus archivos dentro de nuestro repositorio en una carpeta con el nombre del proyecto clonado. Esto hacerlo en una rama distinta a la rama principal llamada proyectos.
+- [x] Adaptación: Buscar y clonar un proyecto libre del Estado Argentino (fuera del repositorio) y copiar sus archivos dentro de nuestro repositorio en una carpeta con el nombre del proyecto clonado. Esto hacerlo en una rama distinta a la rama principal llamada proyectos.
 
 - [ ] Anotación: Escribir un README.md en el directorio raíz de nuestro repositorio explicando de qué se trata el curso. Esto debe hacerse en la rama principal.
 

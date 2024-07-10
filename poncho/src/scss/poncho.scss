@@ -1,0 +1,64 @@
+/*!
+ * Poncho v0.3.3 (https://github.com/argob/poncho)
+ * Copyright 2016
+ * Subsecretaría de Tecnologías de la Información
+ * Presidencia de la Nación Argentina
+ * Licenciado bajo MIT (https://github.com/argob/poncho/LICENSE)
+ */
+@import url(https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap);
+/* Libraries */
+@import "modules/bootstrap/mixins";
+@import "modules/bourbon/bourbon";
+
+/* Resources */
+@import "modules/poncho-colors";
+@import "modules/variables";
+@import "modules/global";
+@import "modules/grid";
+@import "modules/helpers";
+@import "modules/typography";
+@import "modules/buttons";
+@import "modules/dropdowns";
+@import "modules/nav";
+@import "modules/footer";
+@import "modules/list-group";
+@import "modules/breadcrumb";
+@import "modules/pagination";
+@import "modules/article";
+@import "modules/panel";
+@import "modules/jumbotron";
+@import "select2/core";
+@import "modules/forms";
+@import "modules/social";
+@import "modules/tables";
+@import "modules/alerts";
+@import "modules/responsive-embed";
+@import "modules/calendar";
+@import "modules/switch";
+@import "modules/media";
+@import "modules/print";
+@import "modules/values";
+@import "modules/news";
+
+@import "../js/poncho-map/src/scss/poncho-map";
+@import "../js/poncho-agenda/src/scss/poncho-agenda";
+// Charts and big numbers
+@import "modules/dashboard";
+// Cool stuff from Bootstrap 4
+@import "modules/utilities";
+@import "modules/listas-destacadas";
+@import "modules/menu-lateral-responsive";
+@import "modules/campaign";
+
+@import "modules/argentina.scss";
+@import "modules/menu-org.scss";
+
+@import "modules/home-new";
+@import "modules/identidad";
+
+@import "../js/device-breadcrumb/src/scss/device-breadcrumb";
+
+@import "../js/national-holidays/src/scss/national-holidays";
+
+@import "../js/poncho-map-provinces/src/scss/poncho-map-provinces";
+

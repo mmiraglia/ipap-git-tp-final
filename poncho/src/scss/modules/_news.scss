@@ -1,0 +1,77 @@
+/**
+ * Serie de estilos para midificar la `Página noticia`, en 
+ * www.argentina.gob.ar.
+ *
+ * @todo Estos estilos deben reemplazarse y reagruparse en función de cambios
+ * globales en, redes y estilos especiales para esta tipología de página.
+ */
+
+/**
+ * Contenedor para la imagen principal de una noticia.
+ */
+.news__main-image-container {
+    aspect-ratio: 16 / 9;
+    background-color: $gray-light;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 4px;
+}
+
+
+/**
+ * Modifica el tamaño y la ubicación del grupo de enlaces para redes sociales.
+ * @todo Modificar la hoja de estilos _social.scss, para que el cambio se
+ * refleje en todo el sitio. 
+ */
+.social-share {
+    &.news__social-share {
+        ul  {
+            float: right;
+        }
+        
+        a {
+            font-size: small;
+        }
+        
+        li {
+            padding: 0;
+            
+            &:last-of-type {
+            margin-right: -15px;
+            }
+        }
+    }
+}
+.news__lead > p { 
+    @extend .lead;
+    font-weight: 400;
+    font-size: 1.60rem;
+    line-height: 1.3;
+    margin-bottom: 3rem;
+}
+
+@media (max-width:767px) {
+.title-description > h1 {
+          font-size: 1.8rem;
+}
+
+.news__lead > p {
+          font-size: 1.1rem;
+          margin-bottom: 1.5rem;
+}
+    .social-share {
+        &.news__social-share {
+            margin-top: .5em;
+            ul  {
+                float: left;
+            }
+          li:first-of-type {
+            margin-left: -15px;
+        }
+        }  
+    }  
+}
+
+.news__time  { 
+ padding-top: 10px;
+}
