@@ -26,10 +26,20 @@ Después de la reunión con el jefe del área( líder del proyecto), podes elegi
 
 - [ ] Anotación: Escribir un README.md en el directorio raíz de nuestro repositorio explicando de qué se trata el curso. Esto debe hacerse en la rama principal.
 
-  - [ ] Agregar un apartado al README.md donde explique de qué se trata el repositorio clonado del Estado Argentino. Esto debe hacerse en la rama proyectos.
+  - [x] Agregar un apartado al README.md donde explique de qué se trata el repositorio clonado del Estado Argentino. Esto debe hacerse en la rama proyectos.
 
   - [ ] Agregar una apartado al README.md con links y descripciones de al menos 2 herramientas web para aprender ramas en Git. En la rama principal.
 
 - [ ] Integración: Combinar (mergear) la rama proyectos con la principal y mencionar si hubo conflictos, en que archivos y cómo los soluciono. Poner toda la información sobre los conflictos en un archivo llamado conflictos-merge.md
 
 - [ ] Traspaso de conocimiento: Buscar y agregar a nuestro repositorio una hoja de datos (cheatsheet) de Git sea imagen, pdf, o cualquier tipo de archivo en cualquier idioma (español preferentemente).
+
+## Poncho
+
+Base de html y css para la creación de sitios pertenecientes a la Administración Pública Nacional de la República Argentina.
+
+En este repositorio podés descargar los archivos de Poncho para trabajar de manera local.
+Esta nueva versión de Poncho incluye cambios de colores y otros elementos que mejoran cuestiones de accesibilidad.
+
+Para usar Poncho en un sitio, ver [la documentación](http://argob.github.io/poncho).  
+También estamos en [NPM](https://www.npmjs.com/package/ar-poncho).
