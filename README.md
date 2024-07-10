@@ -24,7 +24,7 @@ Después de la reunión con el jefe del área( líder del proyecto), podes elegi
 
 - [ ] Adaptación: Buscar y clonar un proyecto libre del Estado Argentino (fuera del repositorio) y copiar sus archivos dentro de nuestro repositorio en una carpeta con el nombre del proyecto clonado. Esto hacerlo en una rama distinta a la rama principal llamada proyectos.
 
-- [ ] Anotación: Escribir un README.md en el directorio raíz de nuestro repositorio explicando de qué se trata el curso. Esto debe hacerse en la rama principal.
+- [x] Anotación: Escribir un README.md en el directorio raíz de nuestro repositorio explicando de qué se trata el curso. Esto debe hacerse en la rama principal.
 
   - [ ] Agregar un apartado al README.md donde explique de qué se trata el repositorio clonado del Estado Argentino. Esto debe hacerse en la rama proyectos.
 
@@ -33,3 +33,7 @@ Después de la reunión con el jefe del área( líder del proyecto), podes elegi
 - [ ] Integración: Combinar (mergear) la rama proyectos con la principal y mencionar si hubo conflictos, en que archivos y cómo los soluciono. Poner toda la información sobre los conflictos en un archivo llamado conflictos-merge.md
 
 - [ ] Traspaso de conocimiento: Buscar y agregar a nuestro repositorio una hoja de datos (cheatsheet) de Git sea imagen, pdf, o cualquier tipo de archivo en cualquier idioma (español preferentemente).
+
+## Anotación: de qué se trata el curso
+
+El curso **GIT y herramientas para implementar el control de versiones en aplicaciones para desarrolladores/as** intenta dar un vistazo de `qué es Git` (_control de versionado de software_). `Github y Gitlab` (_Creación de repositorios desde Github y Gitlab -crear, inicializar, asociar o clonar un repositorio.-_). `Ramas o branches` (_manejo de ramas para trabajo en simultáneo_).
