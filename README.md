@@ -32,7 +32,7 @@ Después de la reunión con el jefe del área( líder del proyecto), podes elegi
 
 - [x] Integración: Combinar (mergear) la rama proyectos con la principal y mencionar si hubo conflictos, en que archivos y cómo los soluciono. Poner toda la información sobre los conflictos en un archivo llamado conflictos-merge.md
 
-- [ ] Traspaso de conocimiento: Buscar y agregar a nuestro repositorio una hoja de datos (cheatsheet) de Git sea imagen, pdf, o cualquier tipo de archivo en cualquier idioma (español preferentemente).
+- [x] Traspaso de conocimiento: Buscar y agregar a nuestro repositorio una hoja de datos (cheatsheet) de Git sea imagen, pdf, o cualquier tipo de archivo en cualquier idioma (español preferentemente).
 
 ## Anotación: de qué se trata el curso
 
@@ -79,3 +79,7 @@ Esta nueva versión de Poncho incluye cambios de colores y otros elementos que m
 
 Para usar Poncho en un sitio, ver [la documentación](http://argob.github.io/poncho).  
 También estamos en [NPM](https://www.npmjs.com/package/ar-poncho).
+
+## Transpaso de conocimiento
+
+![Hoja de datos (cheatsheet) de Git](./cheatsheet.png)
