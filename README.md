@@ -22,11 +22,11 @@ Después de la reunión con el jefe del área( líder del proyecto), podes elegi
 
 - [x] Elección de tecnología: Describir al menos dos de los servicios a libre elección que aparecen como templates en la creación de proyectos en Gitlab.
 
-- [ ] Adaptación: Buscar y clonar un proyecto libre del Estado Argentino (fuera del repositorio) y copiar sus archivos dentro de nuestro repositorio en una carpeta con el nombre del proyecto clonado. Esto hacerlo en una rama distinta a la rama principal llamada proyectos.
+- [x] Adaptación: Buscar y clonar un proyecto libre del Estado Argentino (fuera del repositorio) y copiar sus archivos dentro de nuestro repositorio en una carpeta con el nombre del proyecto clonado. Esto hacerlo en una rama distinta a la rama principal llamada proyectos.
 
 - [x] Anotación: Escribir un README.md en el directorio raíz de nuestro repositorio explicando de qué se trata el curso. Esto debe hacerse en la rama principal.
 
-  - [ ] Agregar un apartado al README.md donde explique de qué se trata el repositorio clonado del Estado Argentino. Esto debe hacerse en la rama proyectos.
+  - [x] Agregar un apartado al README.md donde explique de qué se trata el repositorio clonado del Estado Argentino. Esto debe hacerse en la rama proyectos.
 
   - [x] Agregar una apartado al README.md con links y descripciones de al menos 2 herramientas web para aprender ramas en Git. En la rama principal.
 
@@ -69,3 +69,13 @@ GitKraken Git Tutorial ofrece una serie de tutoriales detallados sobre Git, incl
 
 **Link:**
 [GitKraken Git Tutorial](https://www.gitkraken.com/learn/git/tutorials)
+
+## Poncho
+
+Base de html y css para la creación de sitios pertenecientes a la Administración Pública Nacional de la República Argentina.
+
+En este repositorio podés descargar los archivos de Poncho para trabajar de manera local.
+Esta nueva versión de Poncho incluye cambios de colores y otros elementos que mejoran cuestiones de accesibilidad.
+
+Para usar Poncho en un sitio, ver [la documentación](http://argob.github.io/poncho).  
+También estamos en [NPM](https://www.npmjs.com/package/ar-poncho).
